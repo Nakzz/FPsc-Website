@@ -1,0 +1,68 @@
+/* Add here all your CSS customizations */
+
+.center{
+  height: 90px;
+line-height: 90px;
+text-align: center;
+border: 2px dashed #f69c55;
+}
+
+
+#FPsc {
+
+
+	margin-bottom: 10px;
+
+}
+
+#FPsc h3 {
+	font-size: 21px;
+  font-weight: bolder;
+	color: #000;
+	text-align: center;
+	margin: 0 0 20px;
+}
+
+/* navbar*/
+@media (min-width: 979px) {
+  ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+  }
+}
+
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+    background: rgba(117,178,9,0.9);
+    color: #e23636
+
+}
+
+.noSideSpace{
+  position: relative;
+min-height: 1px;
+width: 180px !important;
+    float: left !important;
+}
+
+@media screen and (min-width: 1150px) {
+.getBigger{
+  width: 120% !important;
+  height: auto;
+}}
+
+@media screen and (max-width: 767px) {
+.getBigger{
+  width: 80% !important;
+  height: auto;
+  float: right;
+  padding-bottom: 12%;
+}}
+
+.wrapper_z {
+    text-align: center;
+}
+
+.button_z {
+    position: absolute;
+    top: 50%;
+}
