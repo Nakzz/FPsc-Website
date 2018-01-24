@@ -8,10 +8,18 @@ TODO: - xxxxxChange vertical bar tabs Name
       -
 
 
-      -After project finishes, point it to ip
 
-      - Add modules page with the modules linked to program_overview.php
+
+      - modules_1.php * 3
+      - program_overview.php Add modules page with the modules linked to
       - genetics_stocks.php files lists should be indented Right
       - genetics_stocks.php under the files last h1, add some text saying coming.
       - molecular_markers.php page "spreadsheet" text is showing white
-      -  
+      - publication_genetic_analogies.php "The dominant FPsc ale mutant allele causes pronounced leaf curling" has bad margin/padding
+      - publication_genetic_analogies.php Center all the images
+      - publication_genetic_analogies.php add space infront of each paragraph, by adding space first paragraph property
+      - contact.php put a text there to show that you will fix this maps
+      - Fix sizing issues
+
+
+      -After project finishes, point it to ip
