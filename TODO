@@ -18,8 +18,9 @@ TODO: - xxxxxChange vertical bar tabs Name
       - publication_genetic_analogies.php "The dominant FPsc ale mutant allele causes pronounced leaf curling" has bad margin/padding
       - publication_genetic_analogies.php Center all the images
       - publication_genetic_analogies.php add space infront of each paragraph, by adding space first paragraph property
-      - contact.php put a text there to show that you will fix this maps
-      - Fix sizing issues
+      - contact.php fix this maps: possibile solution change API_id
+      - Fix navbar sizing issue in mobile platform.
+      - create database user entries table
 
 
       -After project finishes, point it to ip

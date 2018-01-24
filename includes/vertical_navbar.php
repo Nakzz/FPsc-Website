@@ -17,7 +17,7 @@
       <nav class="navbar navbar-default">
 
         <div class="row">
-          
+
           <div class="col-md-4 offset-md-4">
 
 
@@ -34,7 +34,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li class="current"><a  data-hover="Home">Home</a></li>
+            <li ><a  data-hover="Home">Home</a></li>
 
             <!-- <li><a href="./about.php">about</a></li> -->
             <li><a href="./program_overview.php">program overview</a></li>
