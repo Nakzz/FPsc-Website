@@ -19,8 +19,13 @@ TODO: - xxxxxChange vertical bar tabs Name
       - publication_genetic_analogies.php Center all the images
       - publication_genetic_analogies.php add space infront of each paragraph, by adding space first paragraph property
       - contact.php fix this maps: possibile solution change API_id
-      - Fix navbar sizing issue in mobile platform.
+      - Fix navbar sizing issue in mobile platform: possible solution using xs-col-12 for icon class
       - create database user entries table
+      - contact.php change email to scotts email
+      - vertical_navbar.php add href to home page
+      - vertical_navbar.php change current class based on pages
+      -
 
 
       -After project finishes, point it to ip
+      You may point fpsc.wisc.edu to 138.197.19.148 

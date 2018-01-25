@@ -9,10 +9,7 @@ border: 2px dashed #f69c55;
 
 
 #FPsc {
-
-
 	margin-bottom: 10px;
-
 }
 
 #FPsc h3 {
@@ -40,8 +37,7 @@ li.dropdown:hover > .dropdown-menu {
 .noSideSpace{
   position: relative;
 min-height: 1px;
-width: 180px !important;
-    float: left !important;
+width: 180px ;
 }
 
 @media screen and (min-width: 1150px) {
@@ -52,8 +48,8 @@ width: 180px !important;
 
 @media screen and (max-width: 767px) {
 .getBigger{
-  width: 80% !important;
+  width: 100% !important;
   height: auto;
-  float: right;
+
   padding-bottom: 12%;
 }}

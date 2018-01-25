@@ -10,7 +10,7 @@
 
 
   <!-- Fixed Left Navigaton -->
-  <div class="col-md-1 m-left noSideSpace">
+  <div class="col-md-1 .col-xs-12 m-left noSideSpace">
 
     <!-- Navmenu -->
     <header>
