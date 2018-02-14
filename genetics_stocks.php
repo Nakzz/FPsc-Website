@@ -62,7 +62,7 @@
                     <p>Updating...</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p><!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

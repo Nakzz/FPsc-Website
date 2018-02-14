@@ -53,7 +53,7 @@
                     <p><em>A (partial) implementation guide, printable (but unplayed) game boards, and a draft problem set for students are all available for free <a href="lesson_plan_mating_game_resources.php">download here</a>.</em></p>
                     </div>
                     <!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

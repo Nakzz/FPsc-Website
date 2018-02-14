@@ -1,4 +1,5 @@
 <!-- Footer - copyright -->
+
 <footer>
   <p>&copy; 2012 UW Madison Amasino Lab. <br> All Rights Reserved</p>
   <a href="#page-top" class="backtotop-icon page-scroll"></a>

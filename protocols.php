@@ -44,7 +44,7 @@
                     <p><strong>Genomic DNA extraction from plant tissues</strong>: Two protocols are described—a “quick-and-dirty” gDNA prep and a more involved protocol that yields high quality gDNA (and other nucleic acids) in quantities sufficient for visualization on agarose gels. (<a href="assets/downloads/gDNA extraction protocols.pdf">PDF, 486KB</a>; <a href="assets/downloads/gDNA extraction protocols.docx">Word, 163KB</a>)</p>
                     <p><strong>PCR and fractionation of PCR products via agarose gel electrophoresis</strong>: Polymorphic molecular genetic marker assays were developed at the UW by a team of undergraduates lead by Devin-Walsh-Felz and Melissa Mohn. (<a href="assets/downloads/PCR and electrophoresis using B rapa FPsc markers.pdf">PDF, 550KB</a>; <a href="assets/downloads/PCR and electrophoresis using B rapa markers.docx">Word, 23KB</a>)</p>
                     <!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

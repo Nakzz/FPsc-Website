@@ -34,7 +34,7 @@
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li ><a  data-hover="Home">Home</a></li>
+            <li ><a href="./index.php" data-hover="Home">Home</a></li>
 
             <!-- <li><a href="./about.php">about</a></li> -->
             <li><a href="./program_overview.php">program overview</a></li>

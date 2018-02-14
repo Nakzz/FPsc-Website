@@ -45,16 +45,15 @@
                      <p>We have chosen several well-behaved FPsc mutants from our collection for educational resource development.  Our current efforts are in two areas:  One is to continue to refine the educational modules we have produced to date.  The second is outreach and dissemination to potential end-users. Our primary “target demographic” is advanced high school (e.g., AP Biology) and undergraduate genetics classrooms.  AP Bio is especially suitable given the newly revised implementation guidelines for curriculum and laboratory exercises established by the College Board in 2011, which promote a “big ideas” approach to biology education.  Among the guiding themes of the new AP Bio curriculum is the role of evolution as <em>the</em> unifying framework for all of biology and an emphasis on fostering in students a more genuine appreciation of the nature of scientific practice. We are incorporating those themes into our educational resources.</p>
                      <p> A brief overview of three inquiry-based activities we are developing follows:</p>
                      <ul>
-                       <li><a href="/Modules/1.shtm">Module 1</a>: Use of the albino mutant allele to explore dominance relationships between wt and mutant alleles, Mendel’s law of segregation, and genetic change over time (evolution).</li>
-                       <li><a href="/Modules/2.shtm">Module 2</a>: An experiment in artificial selection that makes clear the necessity of extant/standing genetic variation to enable a heritable response to selective pressure.</li>
-                       <li><a href="/Modules/3.shtm">Module 3</a>: Use of the dominant abnormal leaf (ale) mutant to explore inheritance and genetic patterning mechanisms.</li>
-                     </ul>
+                       <li><a href="program_overview_module_1.php">Module 1</a>: Use of the albino mutant allele to explore dominance relationships between wt and mutant alleles, Mendel’s law of segregation, and genetic change over time (evolution).</li>
+                       <li><a href="program_overview_module_2.php">Module 2</a>: An experiment in artificial selection that makes clear the necessity of extant/standing genetic variation to enable a heritable response to selective pressure.</li>
+                       <li><a href="program_overview_module_3.php">Module 3</a>: Use of the dominant abnormal leaf (ale) mutant to explore inheritance and genetic patterning mechanisms.</li> </ul>
                      <div id="summary">
                      <p><strong>Summary</strong></p>
                      <p>Our lab group at UW-Madison is eager to promote adoption of the FPsc suite of genetic resources by teachers interested to help their students to better understand principles of genetics and evolution through hands-on experimentation. We are committed to providing seed stocks, marker-specific primer sequences, written and validated experimental protocols and supplementary curriculum implementation guides. We hope these resources will be of use to educators and intend to make all documents available for download via a web site that will go live later in 2012. In the meantime, FPsc resources, including seed stocks, can be obtained by email request to Scott Woody (<a href="mailto:swoody@wisc.edu">swoody@wisc.edu</a>). </p>
                     <!-- #EndEditable -->
 
-
+</div></div></div></div></div> 
 
 
                     <!-- Script and footer -->

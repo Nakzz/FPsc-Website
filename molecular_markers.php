@@ -78,7 +78,7 @@
                   <p>Marker assays were conducted through PCRs that use a common thermocycling profile (35 cycles at 54 degr. C annealing temperature) and reaction products were visualized by electrophoresis through 2% agarose gels. Experimental protocols for genomic DNA extractions, PCRs and gel electrophoresis are available <a href="protocols.php">here</a>. Linkage relationships among marker loci were determined by using the <a href="http://www.rqtl.org/">R/QTL software package</a>, ably assisted by <a href="http://www.biostat.wisc.edu/~kbroman/">Karl Broman, UW-Madison</a>. Oligonucleotide primer sequences and banding patterns observed for FPsc, FPsc/R500, and R500 genotypes are available in Adobe <a href="assets/downloads/fpsc_markers_102212.pdf">PDF</a> and Microsoft Excel <a href="assets/downloads/fpsc_markers_102212.xlsx">spreadsheet</a> formats by clicking on the highlighted links.</p>
                   <p><em>Disclaimer: The FPsc/R500 genetic map shown here, like all scientific results, is presented as a tentative conclusion that is subject to change as additional data may warrant.</em></p>
                     <!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

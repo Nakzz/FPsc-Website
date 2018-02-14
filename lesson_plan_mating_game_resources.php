@@ -65,7 +65,7 @@
                   <p>I must also confess that I am not a practicing teacher at the moment, beyond the student research program that I lead at UW-Madison. whereas I have had the privelege of beiing allowed to test-drive various FPsc resources in Madison-area high school and undergraduate classroom/laboratory settings, I do not have the perspective to know what is and is not “do-able” in all settings. My ignorance was evident to me as I tried to draft text for inclusion in the implementation guide and problem set; all of my grandiose visions may not, in fact, be “do-able” in real-world settings.</p>
                   <p>But I think this thing has legs and I need help to make it useful to as many students and teachers as we can. If you use the game in your classroom, please let me know how you did it and how it worked. Just email me at <a href="mailto:swoody@wisc.edu" target="_blank">swoody@wisc.edu</a>.</p>
                     <!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

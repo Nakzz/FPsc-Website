@@ -60,7 +60,7 @@
 
 
 
-
+</div></div></div></div></div> 
 
                     <!-- Script and footer -->
                     <?php include 'assets/footer.php'; ?>

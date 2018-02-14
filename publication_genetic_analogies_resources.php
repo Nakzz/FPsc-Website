@@ -62,7 +62,7 @@
                     <p><em>(Right click on link, select "save as" to save to disk</em>)</p>
                     <p>We welcome feedback from teachers who opt to use these analogies and figures in their genetics curriculum. How did you present them? What was the reception among students? Did they work? Any such feedback &mdash; whether upon initial impressions or following classroom use &mdash; would be very welcome and should be forwarded via email to Scott Woody (<a href="mailto:swoody@wisc.edu">swoody@wisc.edu</a>) with subject line “genetic analogies”.</p>
                     <!-- #EndEditable -->
-
+</div></div></div></div></div> 
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

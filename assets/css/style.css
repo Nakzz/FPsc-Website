@@ -187,6 +187,7 @@ top:0;
 .navbar-default .nav li a:focus {
 	outline: 0;
 	color: #fed136;
+	background: rgba(117,178,9,0.9);
 }
 
 .navbar-default .navbar-nav > .active > a {
