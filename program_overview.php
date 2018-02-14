@@ -53,7 +53,7 @@
                      <p>Our lab group at UW-Madison is eager to promote adoption of the FPsc suite of genetic resources by teachers interested to help their students to better understand principles of genetics and evolution through hands-on experimentation. We are committed to providing seed stocks, marker-specific primer sequences, written and validated experimental protocols and supplementary curriculum implementation guides. We hope these resources will be of use to educators and intend to make all documents available for download via a web site that will go live later in 2012. In the meantime, FPsc resources, including seed stocks, can be obtained by email request to Scott Woody (<a href="mailto:swoody@wisc.edu">swoody@wisc.edu</a>). </p>
                     <!-- #EndEditable -->
 
-</div></div></div></div></div> 
+</div></div></div></div>
 
 
                     <!-- Script and footer -->
