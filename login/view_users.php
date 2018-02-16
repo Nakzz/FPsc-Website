@@ -1,3 +1,14 @@
+<?php
+session_start();
+
+if(!$_SESSION['email'])
+{
+
+    header("Location: login.php");//redirect to login page to secure the welcome page without login access.
+}
+
+?>
+
 <html>
 <head lang="en">
     <meta charset="UTF-8">
@@ -16,6 +27,8 @@
 </style>
 
 <body>
+
+<button type="button" class="btn btn-outline-secondary"><a href="logout.php">Logout</a></button>
 
 <div class="table-scrol">
     <h1 align="center">All the Users</h1>
