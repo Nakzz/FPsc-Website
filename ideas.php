@@ -1,5 +1,11 @@
 <!-- All the stylesheet elements -->
-<?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php';
+require_once('counter/conn.php');
+require_once('counter/counter.php');
+
+updateCounter("page name"); // Updates page hits
+updateInfo(); // Updates hit info
+ ?>
 <!--  END-->
 
 	<meta name="keywords" content="HTML5 Template" />

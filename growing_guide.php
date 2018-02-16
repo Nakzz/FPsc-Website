@@ -1,6 +1,11 @@
 <?php
 // TODO:  Change PAGE TITTLE
 // TODO:  Add keywords and description
+require_once('counter/conn.php');
+require_once('counter/counter.php');
+
+updateCounter("page name"); // Updates page hits
+updateInfo(); // Updates hit info
 ?>
 <!-- All the stylesheet elements -->
 <?php include 'includes/header.php'; ?>
@@ -51,7 +56,7 @@
                     <!--<p>If you have problems or any questions about growing FPsc, please send us an email at <a href="mailto:swoody@wisc.edu">swoody@wisc.edu</a>.</p>-->
                     <p><em>The growing guide is also available for <a href="assets/downloads/Instructions_and_Tips_for_Growing_FPsc.pdf">download</a> in PDF format</em></p>
                     <!-- #EndEditable -->
-</div></div></div></div></div> 
+</div></div></div></div></div>
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->

@@ -1,6 +1,11 @@
 <?php
 // TODO:  Change PAGE TITTLE
 // TODO:  Add keywords and description
+require_once('counter/conn.php');
+require_once('counter/counter.php');
+
+updateCounter("page name"); // Updates page hits
+updateInfo(); // Updates hit info
 ?>
 <!-- All the stylesheet elements -->
 <?php include 'includes/header.php'; ?>
@@ -62,7 +67,7 @@
                     <p>Updating...</p>
                     <p>&nbsp;</p>
                     <p>&nbsp;</p><!-- #EndEditable -->
-</div></div></div></div></div> 
+</div></div></div></div></div>
                     <!-- Script and footer -->
                     <?php include 'includes/footer.php'; ?>
                     <!--  Script and footer END-->
