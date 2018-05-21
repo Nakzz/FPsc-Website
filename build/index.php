@@ -42,14 +42,26 @@
 
     <div class="container-fluid p-0">
 
+      <div class="text-right d-none d-lg-block" style=" padding-top: 3em; padding-right: 2em;     background: linear-gradient(to right, #2C9961 , teal);      ">
+                  <h1 class="mb-0">
+                    <span class="text-primary whiteText">FPSC: </span>Genetic resources
+                  </h1>
+                  <div class="subheading mb-5 greyText">Genetics, Evolution, Modern Genetic Sciences
+                </div>
+
+
+                </div>
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">
-            <span class="text-primary">FPSC: </span>Genetic resources
-          </h1>
-          <div class="subheading mb-5">Genetics, Evolution, Modern Genetic Sciences
-
+          <!-- <div class="text-right">
+            <h1 class="mb-0">
+              <span class="text-primary">FPSC: </span>Genetic resources
+            </h1>
+            <div class="subheading mb-5">Genetics, Evolution, Modern Genetic Sciences
           </div>
+
+
+          </div> -->
 
 
           <div class="row">

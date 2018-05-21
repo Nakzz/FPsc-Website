@@ -9082,7 +9082,7 @@ body {
 /** This is a dynamically generated file **/
 body {
   font-family: 'Open Sans', serif;
-  padding-top: 100px;
+  padding-top: 140px;
   color: #6c757d; }
 
 @media (min-width: 992px) {
@@ -9120,6 +9120,15 @@ h2 {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
     color: #2C9961; }
+
+.whiteText {
+  color: #fff !important; }
+
+.greyText {
+  color: #ced4da !important; }
+
+.greyerText {
+  color: #495057 !important; }
 
 /* latin-ext */
 @font-face {
@@ -9269,7 +9278,7 @@ h2 {
   background-color: #2C9961 !important; }
 
 .text-primary {
-  color: #2C9961 !important; }
+  color: #2C9961; }
 
 a {
   color: #2AB045; }
@@ -9278,7 +9287,7 @@ a {
 
 /** This is a dynamically generated file **/
 #sideNav a {
-  color: #fff !important; }
+  color: #fff; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;

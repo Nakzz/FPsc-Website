@@ -2,7 +2,7 @@
 
 body {
   @include body-font;
-  padding-top: 100px;
+  padding-top: 140px;
   color: $secondaryFont;
 }
 @media (min-width: 992px) {
@@ -59,4 +59,16 @@ h2 {
       color: $primaryTheme;
     }
   }
+}
+
+.whiteText{
+  color: $white !important;
+}
+
+.greyText{
+  color: $gray-400 !important;
+}
+
+.greyerText{
+  color: $gray-700 !important;
 }
