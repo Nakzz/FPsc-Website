@@ -2,7 +2,7 @@
   <a class="navbar-brand js-scroll-trigger" href="#page-top">
     <span class="d-block d-lg-none">FPsc: Genetics, Evolution, Modern Genetic Sciences</span>
     <span class="d-none d-lg-block">
-      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/logo.jpg" alt="">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/logo.png" alt="">
     </span>
   </a>
 
